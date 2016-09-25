@@ -1,0 +1,21 @@
+
+#content{
+    background: #EEE;
+    width: 80%;
+    margin: auto;
+    height: auto;
+    padding: 2%;
+    position: relative;
+}
+
+#image{
+    text-align: center;
+    background: #FFF;
+    font-size: 18px;
+}
+
+#heading{
+    text-align: center;
+}
+
+
